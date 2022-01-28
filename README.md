@@ -7,3 +7,6 @@ It's poorly optimzed and the code is rather bad, but I'm having fun and learning
 ![Imgur](https://imgur.com/Zlvu60X.png)
 ![Imgur](https://imgur.com/KkmyfY8.png)
 test
+
+
+support:support@ilyasov.tk
